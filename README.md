@@ -7,6 +7,8 @@ TensorFlow Implementation for learned compression of images using Generative Adv
 -----------------------------
 ## Usage
 The code depends on [Tensorflow 1.8](https://github.com/tensorflow/tensorflow)
+## push test
+
 ```bash
 # Clone
 $ git clone https://github.com/Justin-Tan/generative-compression.git
